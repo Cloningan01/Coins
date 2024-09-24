@@ -1,0 +1,2 @@
+# Coins
+Veruscoin
